@@ -1,2 +1,1 @@
-# Project-TinDog
-TinDog project files
+TinDog Starting Files
